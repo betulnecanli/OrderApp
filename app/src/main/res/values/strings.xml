@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">OrderApp</string>
+    <string name="whipped_cream">Whipped Cream 5$</string>
+    <string name="chocolate">\t\tChocolate 3$</string>
+    <string name="order_format">Name:\t %s \nAdd whipped cream? %b\nAdd chocolate? %b\nQuantity: %d\nTotal: $%d\nThank you!</string>
+    <string name="name">Name</string>
+    <string name="toppings">TOPPINGS</string>
+    <string name="quantity">QUANTITY</string>
+    <string name="minus">-</string>
+    <string name="_0">0</string>
+    <string name="plus">+</string>
+    <string name="order_button_text">Order</string>
+</resources>
